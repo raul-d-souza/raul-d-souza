@@ -37,7 +37,9 @@
 <h4 align="center">
 <details>
 <summary>More about me...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi! My name is Raul! I'm a Software Engineer and a Solutions Architect!</h1><h2>Test</h2></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi! My name is Raul! I'm a Software Engineer and a Solutions Architect!</h1><h3>I work with Software Development and Design Solutions for scalable, elastic and resilient applications.
+My hard skills include development with programming languages ​​such as Python, Java, Angular, C# .NET and Javascript, SQL and NoSQL databases, system architectures, architectural patterns, among others.
+My soft skills include collaboration, active leadership, communication, proactivity, creativity, among others.</h3></img>
 
 <p align="center">
   <a href="https://github.com/raul-d-souza">
