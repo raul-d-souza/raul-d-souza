@@ -30,6 +30,9 @@
    <a href="https://angular.io/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
    </a>
+  <a href="https://react.dev/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="react" width="40" height="40"/>
+   </a>
    <a href="https://flutter.dev/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="angular" width="40" height="40"/>
    </a>
@@ -38,34 +41,22 @@
 <h4 align="center">
 <details>
 <summary>More about me...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi! My name is Raul! I'm a Software Engineer!</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi! My name is Raul! I'm a Software Engineer and a Solutions Architect!</h1></img>
 
 <p align="center">
-  <a href="https://github.com/dev-raulsouza">
+  <a href="https://github.com/raul-d-souza">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=dev-raulsouza&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=raul-d-souza&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/dev-raulsouza">
+  <a href="https://github.com/raul-d-souza">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-raulsouza&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-d-souza&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
-  </a>
-</p>
-
-<h3 align="center">Working on:</h3>
-
-<p align="center">
-  <a href="https://github.com/dev-raulsouza/django-react-todo-list">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=dev-raulsouza&repo=django-react-todo-list&theme=tokyonight">
-    </img>
   </a>
 </p>
 
