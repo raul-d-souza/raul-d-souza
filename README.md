@@ -29,10 +29,6 @@
    </a>
    <a href="https://angular.io/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-   </a>
-  <a href="https://react.dev/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="react" width="40" height="40"/>
-   </a>
    <a href="https://flutter.dev/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="angular" width="40" height="40"/>
    </a>
@@ -41,7 +37,7 @@
 <h4 align="center">
 <details>
 <summary>More about me...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi! My name is Raul! I'm a Software Engineer and a Solutions Architect!</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi! My name is Raul! I'm a Software Engineer and a Solutions Architect!</h1><h2>Test</h2></img>
 
 <p align="center">
   <a href="https://github.com/raul-d-souza">
